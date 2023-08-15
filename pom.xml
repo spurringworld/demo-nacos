@@ -17,6 +17,7 @@
     </properties>
 
     <modules>
+        <module>test-service</module>
         <module>e-school</module>
         <module>f-teacher</module>
     </modules>
